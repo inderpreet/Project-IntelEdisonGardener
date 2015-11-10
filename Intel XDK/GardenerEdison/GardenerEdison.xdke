@@ -1,0 +1,60 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "GardenerEdison.xdk": {
+        "previousModTime": 1446360681000,
+        "modified": 1446360681000,
+        "seen": true,
+        "name": "GardenerEdison.xdk"
+      },
+      "GardenerEdison.xdke": {
+        "previousModTime": 1446987386000,
+        "modified": 1446987386000,
+        "seen": true,
+        "name": "GardenerEdison.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1446360681000,
+        "modified": 1446360681000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1446360681000,
+        "modified": 1446360681000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1447002093000,
+        "modified": 1447002093000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1446360681000,
+        "modified": 1446360681000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1446360681000,
+        "modified": 1446360681000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1447002098535
+      }
+    }
+  }
+}
