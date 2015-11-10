@@ -1,6 +1,6 @@
 /*!
 *	\file		main.js
-*	\author 	Inderpreet Singh (google.com/+InderpreetSingh)
+*	\author 	Inderpreet Singh 
 * 	\license	GPL2(see license.txt)
 *
 *	\section 	Project: Edison Gardener Entry Point file
