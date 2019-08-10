@@ -1,13 +1,9 @@
 Edison - The Gardener
 =====================
-Project files for the Intel IoT Invitational Project.
 
 
-For more details, check out the website at
 
------> http://embeddedcode.wordpress.com
 
-Designed by Inderpreet Singh Of Guru Nanak Dev Univeristy, Amritsar
 
 This software may be distributed and modified under the terms of the GNU
 General Public License version 2 (GPL2) as published by the Free Software
