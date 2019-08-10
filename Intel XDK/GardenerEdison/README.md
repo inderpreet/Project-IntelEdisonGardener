@@ -1,6 +1,6 @@
 EdisonGardener Node.js App
 ==========================
-This Intel XDK Project is part of the Intel IoT Invitational project made by Inderpreet Singh
+This Intel XDK Project is part of the Intel Edison Gardner project made by Inderpreet Singh
 
 Intel(R) XDK IoT Edition
 -------------------------------------------
